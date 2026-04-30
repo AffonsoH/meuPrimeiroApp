@@ -12,7 +12,7 @@
         }
     </style>
     <h1>O que é calistenia?</h1>
-<div style="display: flex; justify-content: center; align-items: center; height: 300px; width: 70%; margin: 0 auto; border: 5px solid #ccc;">
+<div style="display: flex; justify-content: center; align-items: center; height: 300px; width: 70%; margin: 0 auto; border: 5px solid;">
     <img src="https://tse1.mm.bing.net/th/id/OIP.mEtYCRIs1W_qzIxg9g8T2gHaEK?pid=Api&P=0&h=180" style="max-width: 100%; max-height: 100%;">
 </div>
 </div>
@@ -57,7 +57,6 @@
 
 <p><strong>Curiosidade:</strong> Soldados gregos e romanos já utilizavam a calistenia para se manterem em forma para as batalhas, muito antes da existência das academias modernas!</p>
 
-<!-- SEÇÃO: Benefícios -->
 <h3>Principais Benefícios</h3>
 <ul>
     <li><strong>Força Funcional:</strong> Desenvolve força que você usa no dia a dia, não apenas músculos estéticos</li>
